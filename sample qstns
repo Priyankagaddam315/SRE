@@ -1,0 +1,35 @@
+What is SLI
+What is SLO
+What SLI metrics used in my application
+How did you use SLI metrics to define your SLOError budget
+Fast and slow burn rates percentages defined in your application
+Explain chaos testing and different types of testing done in your application(EKS, ECS)
+What are the toil reduction done(explain about python automation explain about all modules and lean about alternate modules and authentications)
+ALB(layer 7), NLB(layer 4)
+AWS networking concepts
+design patterns(rate limiters, retires, circuit breaker) used in your application
+explain CI/CD steps in promoting your code to prod
+grafana(what data source used, how data is sent to cortex)
+major incident
+explain process of blameless postpartum
+
+***
+1.reliability
+2.resiliency
+3.observability
+4.durability
+simple availability vs aggregate availability
+what is the error rate you defined on your application
+what are the SLI metrics you have in your service
+where do you use ALB and NLB
+what do you do in RCA
+Explain one major incidents you recently worked
+what is resiliency?what kind of resiliency you did
+what are the tool used to setup monitoring
+what have you achieved by doing resiliency testing
+what kind of testing does in after check IN code in bitbucket
+Lesson learnt: Have realtime SLI/SLO and error metrics and agreed values from product team
+while running jules pipeline, it does few tests, what are they
+how do you ensure your system is resilient now
+difference between response time and processing time
+difference between client side response and server side response
